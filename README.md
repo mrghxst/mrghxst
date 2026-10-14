@@ -12,18 +12,11 @@
 
 <br />
 
-I make small, private software that runs on **your** machine: a Usenet client that lives
-entirely in a browser tab, a photo library that turns a 100,000-file phone dump into a clean
-archive, and a pile of tools for self-hosting, media and lossless music.
+Hi, I'm mrghxst. Most of what I build lately is in Rust.
 
-```rust
-let mrghxst = Dev {
-    building: ["roll", "spool"],
-    writes:   ["Rust", "WebAssembly", "Svelte", "TypeScript", "Python"],
-    into:     ["local-first", "privacy", "self-hosting", "usenet", "hi-res audio"],
-    rule:     "your files never leave your machine",
-};
-```
+Right now that's **roll**, a desktop app for sorting a huge pile of phone photos, and
+**spool**, a Usenet downloader that runs in the browser. Outside of that I tinker with
+self-hosting and music tools.
 
 ## Things I'm building
 
